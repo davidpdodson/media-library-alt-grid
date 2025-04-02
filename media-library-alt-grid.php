@@ -4,7 +4,7 @@
  * Plugin URI: https://example.com
  * Description: Adds an admin page that shows a paginated table of media library images with their title and alt tags.
  * Version: 1.2
- * Author: Your Name
+ * Author: Dave Dodson
  * Author URI: https://example.com
  */
 
